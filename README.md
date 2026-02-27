@@ -1,3 +1,13 @@
+## CS 320
+###Reflection
+
+I ensure my code is functional and secure by combining careful design with thorough automated testing. In these projects, I focused on writing unit tests that validate both expected behavior and edge cases. Running tests continuously helps catch regressions early. I also enforce input validation, clear constraints, and defensive programming practices to reduce the risk of invalid data or unintended behavior.
+
+I interpret user needs by starting with the stated requirements and translating them into concrete, testable behaviors. I break features into smaller rules that can be verified through unit tests. This helps confirm that the implementation actually matches what the user or stakeholder expects. When requirements are unclear, I focus on boundary conditions and realistic usage scenarios to guide design decisions.
+
+My approach to designing software is incremental and test focused. I begin by identifying core responsibilities for each class and keeping components small and focused. I prefer simple, readable designs that are easy to test and maintain. Writing tests alongside development helps guide the structure of the code and ensures that quality is built into the process rather than added at the end.
+
+
 ## CS 255 Module Eight Journal
 ### DriverPass Project Summary
 The DriverPass project involved designing a web-based system for a driver training company. The client needed a system that allowed students to schedule lessons and access training materials, while giving staff the ability to manage users, instructors, vehicles, and appointments in a centralized platform.
