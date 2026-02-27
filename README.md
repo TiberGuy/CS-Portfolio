@@ -1,5 +1,5 @@
 ## CS 320
-###Reflection
+### Reflection
 
 I ensure my code is functional and secure by combining careful design with thorough automated testing. In these projects, I focused on writing unit tests that validate both expected behavior and edge cases. Running tests continuously helps catch regressions early. I also enforce input validation, clear constraints, and defensive programming practices to reduce the risk of invalid data or unintended behavior.
 
