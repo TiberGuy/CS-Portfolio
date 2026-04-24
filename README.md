@@ -1,3 +1,27 @@
+## CS 305 Module Eight Journal
+### Artemis Financial Security Project Reflection
+
+### Client Summary
+Artemis Financial is a financial services company that manages sensitive data, including investment accounts, retirement plans, and insurance records. The client needed a vulnerability assessment of their web application to identify security risks and improve protection of customer data. The main issue was weak security practices, including insecure communication, lack of input validation, and outdated dependencies, which increased exposure to attacks :contentReference[oaicite:0]{index=0}.
+
+### What I Did Well
+I identified key vulnerabilities across the application, including hardcoded credentials, missing authentication, insecure HTTP usage, and weak cryptographic practices. I combined manual review with automated dependency scanning, which provided broader coverage. Secure coding is important because it protects data integrity, prevents unauthorized access, and reduces risk to the organization.
+
+### Challenging or Helpful Areas
+Manual code review was the most challenging part, especially identifying how input handling and API exposure could be exploited. Static analysis was the most helpful, since it clearly identified known vulnerabilities and provided direct remediation guidance.
+
+### Layers of Security
+I recommended enforcing HTTPS with TLS, replacing weak hashing algorithms with SHA-256 or bcrypt, adding authentication and authorization, validating all inputs, updating dependencies, and implementing logging and monitoring. In the future, I would continue using OWASP Dependency-Check and OWASP Top Ten as a baseline for assessing vulnerabilities and selecting mitigation strategies.
+
+### Ensuring Security and Functionality
+I maintained functionality by focusing on targeted security fixes without changing core application behavior. After refactoring, I verified results by re-running dependency checks and reviewing the code for new issues. This ensures that security improvements do not introduce additional vulnerabilities.
+
+### Tools and Practices
+I used manual code review, OWASP Dependency-Check, and standard secure coding practices such as input validation, proper error handling, and strong encryption. These are repeatable and applicable to future projects.
+
+### What I Would Show Employers
+I would include the completed vulnerability assessment report and mitigation plan. This work demonstrates the ability to identify security risks, analyze code, and apply practical solutions in a structured way.
+
 ## CS 320
 ### Reflection
 
