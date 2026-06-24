@@ -1,3 +1,26 @@
+## CS 330
+### Computational Graphics and Visualization Reflection
+
+For this course, I created a 3D scene based on a tabletop image. The scene includes a table, mug, notebook, rubber band ball, and loose rubber bands. I used basic shapes like planes, boxes, cylinders, spheres, and torus shapes to build the objects while keeping the scene simple and low-poly.
+
+### How do I approach designing software?
+
+This project helped me think more about breaking a visual scene into smaller parts before coding it. Instead of trying to create the whole image at once, I looked at each object and figured out what basic shapes could represent it.
+
+I followed an iterative design process by starting with the main objects, then adjusting their size, position, textures, and lighting as the scene came together. This approach can be useful in future projects because it makes larger tasks easier to manage.
+
+### How do I approach developing programs?
+
+I used a lot of trial and adjustment while developing the scene. Small changes to scale, rotation, and position made a big difference in how the objects looked. I also reused functions like `SetTransformations` to keep the code more organized.
+
+Throughout the milestones, I became more comfortable working with 3D coordinates, camera movement, textures, and lighting. My approach changed from just trying to get something on the screen to thinking more carefully about how each part fit into the full scene.
+
+### How can computer science help me in reaching my goals?
+
+Computational graphics helped me better understand how code and visual design work together. These skills could help me in future classes because they gave me more practice with C++, problem solving, and working through complex code step by step.
+
+Professionally, this could be useful if I work with software development, game development, visualization tools, or any project that involves interactive graphics. Even if I do not work directly with graphics, the process of planning, testing, and refining code will still be useful.
+
 ## CS 305 Module Eight Journal
 ### Artemis Financial Security Project Reflection
 
